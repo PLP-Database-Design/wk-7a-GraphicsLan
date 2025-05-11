@@ -26,7 +26,7 @@
 
 ---
 
-### Question 1 Achieving 1NF (First Normal Form) 🛠️
+### Question 1 Achieving 1NF (First Normal Form) 🛠️ 
 Task:
 - You are given the following table **ProductDetail**:
 
